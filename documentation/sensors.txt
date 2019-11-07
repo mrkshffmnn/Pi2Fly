@@ -1,0 +1,12 @@
+Airspeed sensor: MPXV7002DP
+  - analog output
+ 
+Altimeter & Variometer: BME280
+  - i2c communication 
+  
+Compass: QMC5883L
+  - on a GY-271 board
+  - i2c communication
+   
+Artificial Horizon & Turn-Indicator: MPU6050
+  -i2c communication
