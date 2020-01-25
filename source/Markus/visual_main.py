@@ -277,7 +277,7 @@ def drawText(xpos, ypos, textString, color, font):
     glRasterPos2d(xpos,ypos)
     #glDrawPixels is the slowest
     glDrawPixels(textSurface.get_width(), textSurface.get_height(), GL_RGBA, GL_UNSIGNED_BYTE, textData)
-    
+
 
 def drawTexture(xpos, ypos, texturename, r, g, b, a):
     
