@@ -1,5 +1,4 @@
-
-![Pi2Fly Logo](documentation/logo.png)
+<img src="./documentation/logo.png" alt="Pi2Fly Logo" width="400">
 # Pi2Fly
 
 **Primary Flight Display (PFD) based on Python and OpenGL with the hardware implemented on a Raspberry Pi.**
@@ -22,7 +21,8 @@ The following sensors are used and implemented in the project:
 - **Display:** A generic 7-inch LCD is used for the display.
 
 
-![GUI Animation](documentation/gui-gif.gif)
-![Sensor Board](documentation/sensor_board.png)
-![Hardware Enclosure](documentation/integrated_hardware.png)
-![Integrated Hardware](documentation/closed_hardware.png)
+## Images
+<img src="./documentation/gui.gif" alt="GUI Animation" width="400">
+<img src="./documentation/sensor_board.png" alt="Sensor Board" width="400">
+<img src="./documentation/integrated_hardware.png" alt="Hardware Enclosure" width="400">
+<img src="./documentation/closed_hardware.png" alt="Integrated Hardware" width="400">
