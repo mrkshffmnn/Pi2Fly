@@ -1,2 +1,4 @@
 # Pi2Fly
-open source Primary Flight Display (PFD) programmed in Python with the hardware implemented with a RasperryPi
+Primary Flight Display (PFD) based on Python and OpenGL with the hardware implemented on a Raspberry Pi.
+The project was supposed to show the viability of using off-the-shelf low-cost components to achieve useable sensor accuracy and reliability.
+This was done by using multiple sensors of the same kind to achieve redundancy and the ability to average sensor readings.
