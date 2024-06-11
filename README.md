@@ -1,5 +1,6 @@
 <img src="./documentation/logo.png" alt="Pi2Fly Logo" width="400">
-# Pi2Fly
+
+# Pi2Fly (2019)
 
 **Primary Flight Display (PFD) based on Python and OpenGL with the hardware implemented on a Raspberry Pi.**
 
