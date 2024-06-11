@@ -7,6 +7,8 @@
 ## Overview
 Pi2Fly is a project aimed at demonstrating the feasibility of using off-the-shelf, low-cost components to achieve usable sensor accuracy and reliability. This is accomplished by using multiple sensors of the same kind to provide redundancy and enable the averaging of sensor readings.
 
+This project was completed as a 3 ECTS university assignment during the Bachelor's program.
+
 ## Sensors
 The following sensors are used and implemented in the project:
 
@@ -20,7 +22,7 @@ The following sensors are used and implemented in the project:
 - **Display:** A generic 7-inch LCD is used for the display.
 
 
-![Pi2Fly Logo](documentation/gui-gif.gif)
-![Pi2Fly Logo](documentation/sensor_board.png)
-![Pi2Fly Logo](documentation/integrated_hardware.png)
-![Pi2Fly Logo](documentation/closed_hardware.png)
+![GUI Animation](documentation/gui-gif.gif)
+![Sensor Board](documentation/sensor_board.png)
+![Hardware Enclosure](documentation/integrated_hardware.png)
+![Integrated Hardware](documentation/closed_hardware.png)
